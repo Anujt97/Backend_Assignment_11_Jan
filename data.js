@@ -1,0 +1,52 @@
+var data = [
+    {   "id":1,
+        "slot":1,
+        "parking_id":1,
+        "vehicle_number":null,
+        "vehicle_id":1
+    },
+    { 
+        "id":2,
+        "slot":2,
+        "parking_id":2,
+        "vehicle_number":null,
+        "vehicle_id":2
+    },
+    { 
+        "id":3,
+        "slot":3,
+        "parking_id":3,
+        "vehicle_number":null,
+        "vehicle_id":3
+    },
+    { 
+        "id":4,
+        "slot":4,
+        "parking_id":4,
+        "vehicle_number":null,
+        "vehicle_id":4
+    },
+    { 
+        "id":5,
+        "slot":5,
+        "parking_id":5,
+        "vehicle_number":null,
+        "vehicle_id":5
+    },
+    { 
+        "id":6,
+        "slot":6,
+        "parking_id":6,
+        "vehicle_number":null,
+        "vehicle_id":6
+    },
+    { 
+        "id":7,
+        "slot":7,
+        "parking_id":7,
+        "vehicle_number":null,
+        "vehicle_id":7
+    }
+]
+
+module.exports = data
